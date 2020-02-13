@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Armed and Unarmed Guards'
 image: '/services/default.png'
 ---
 

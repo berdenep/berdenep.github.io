@@ -1,11 +1,9 @@
 ---
-title: 'Accounting'
+title: 'Executive Protection'
 image: '/services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Our track record speaks for itself. We've provided executive protection for some of the most high-profile individuals in the world, ensuring safety during events and everyday endeavors. 
 
 ## Ne verba patulosque numen vix libet
 
