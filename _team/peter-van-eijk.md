@@ -1,11 +1,9 @@
 ---
-title: 'Peter Van Eijk'
+title: 'Mikheil Berden'
 image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
+jobtitle: 'Chief Executive Officer'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mr. Berden has provided executive protection for some of the most high profile clients. He was enlisted with the army, a judo black belt, and trained in CPR and firearms.
